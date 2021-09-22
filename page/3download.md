@@ -9,93 +9,72 @@ type: page
 * content
 {:toc}
 
-# 远程控制
 
-* [RUSTDESK下载](http://gitee.com/rustdesk/rustdesk/attach_files/815641/download/rustdesk-1.1.8-windows_x64-portable.zip) :解压双击即可，无需安装！
 
-* [RUSTDESK官网](http://rustdesk.com/zh/)
+# 本店主营 
 
-# 简介 
+Autodesk系列软件激活文件：支持激活3ds Max、AutoCAD、AutoCAD Mechanical等程序，支持2006-2022版本的Autodesk软件。
 
-Autodesk系列软件激活注册机：X-Force是欧特克软件通用注册机，支持3ds Max 2020、AutoCAD 2020、AutoCAD Mechanical 2020等程序。
-
-Adobe全家桶提供破解安装包：无需登录、无需激活、安装即用！一次购买，永久使用！支持WIN/MAC双平台！
+Adobe全家桶提供的安装包：无需登录、无需激活、安装即用！一次购买，永久使用！支持WIN/MAC双平台！
 
 Windows10数字激活：一次激活，永久使用，数字激活，可绑定微软账号！
 
 Office365账号：可长期作为主账号使用，5T网盘，独立账号，长期续费，长期使用。
 
-# 激活软件提取码解压缩密码  
+各种手机软件、电脑软件永久激活码、限时激活码：如WPS一月会员cdkey、腾讯视频会员等等
 
-**购买地址：点击左上角“[网络激活大师](https://ms365.taobao.com)“即可**
+Windows 激活密钥：Windows7/8/10/11
+
+**提取码购买地址**：点击左上角“ [网络激活大师](https://ms365.taobao.com) “即可
 
 # 下载
+## 远程控制
+
+* [RUSTDESK下载](http://gitee.com/rustdesk/rustdesk/attach_files/815641/download/rustdesk-1.1.8-windows_x64-portable.zip) :解压双击即可，无需安装！
+
+* [RUSTDESK官网](http://rustdesk.com/zh/)
 
 ## Windows 10数字激活
 
 [Windows 10数字激活文件](https://ods.lanzoui.com/i1lPsu0kkaf)
 
-## CAD 注册机
+## CAD 
 
-### CAD 注册机下载
-[X-force AutoCAD 原版注册机2008](https://ods.lanzoui.com/iVMVNtzl0yj) 
+### AutoCAD下载
 
-[X-force AutoCAD 原版注册机2009](https://ods.lanzoui.com/iJGTYtzljkj)
+[AutoCAD下载](https://www.autodesk.com/free-trials)
 
-[X-force AutoCAD 原版注册机2010](https://ods.lanzoui.com/iVMVNtzl0yj) 
+### CAD 激活文件下载
 
-[X-force AutoCAD 原版注册机2011](https://ods.lanzoui.com/iJGTYtzljkj)
+**[CAD激活教程](/cad/)**
 
-[X-force AutoCAD 原版注册机2012](https://ods.lanzoui.com/iDOPAtzl5sd)
-
-[X-force AutoCAD 原版注册机2013](https://ods.lanzoui.com/itrJ9tzl6pg)
-
-[X-force AutoCAD 原版注册机2014](https://ods.lanzoui.com/i7GZ1tzl75c)
-
-[X-force AutoCAD 原版注册机2015](https://ods.lanzoui.com/iB0w2tzl79g)
-
-[X-force AutoCAD 原版注册机2016](https://ods.lanzoui.com/ip42ltzl7cj)
-
-[X-force AutoCAD 原版注册机2017](https://ods.lanzoui.com/iAFRqtzl7mj)
-
-[X-force AutoCAD 原版注册机2018](https://ods.lanzoui.com/ixFxCtzl7qd)
-
-[X-force AutoCAD 原版注册机2019](https://ods.lanzoui.com/io5CQtzkyzi)
-
-[X-force AutoCAD 原版注册机2020](https://ods.lanzoui.com/iaCZztzkzcb)
-
-[X-force AutoCAD 原版注册机2021](https://ods.lanzoui.com/iOhUhtzl0sd)
-
-[X-force AutoCAD 原版注册机2022](https://ods.lanzoui.com/iOhUhtzl0sd)
-
-### CAD各版本序列号
-
-|版本|序列号|秘钥|
-|---|---|---|
-|2022|666-69696969|001L1|
-|2020|666-98989898|001L1|
-|2019|666-69696969, 667-98989898, 400-45454545, 066-66666666|001K1|
-|2018|666-69696969, 667-98989898, 400-45454545, 066-66666666| 001J1|
-|2017|666-69696969, 667-98989898, 400-45454545 066-666666669|001I1|
-|2016|666-69696969, 667-98989898, 400-45454545, 066-66666666|001H1|
-|2015|666-69696969, 667-98989898, 400-45454545, 066-66666666|001G1|
-|2014|666-69696969, 667-98989898, 400-45454545, 066-66666666|001F1|
-|2013|666-69696969, 667-98989898, 400-45454545|001E1|
-|2012|666-69696969, 667-98989898, 400-45454545, 356-72378422|001D1|
-|2011|356-72378422|001C1|
-|2010|356-72378422|001B1|
-|2009|653-12354321, 666-98989898, 666-69696969| |
-|2008|653-12354321, 666-98989898, 666-69696969| |
+[Autodesk2022win&mac激活文件](https://ods.lanzoui.com/iJgnDuck1qj) [序列号及密钥](/cad2022/)
+[Autodesk2021win&mac激活文件](https://ods.lanzoui.com/iphLyuck1eh) [序列号及密钥](/cad2021/)
+[Autodesk2020win&mac激活文件](https://ods.lanzoui.com/iCDwAuck1dg) [序列号及密钥](/cad2020/)
+[Autodesk2019win激活文件](https://ods.lanzoui.com/iAWLYuck90b) [序列号及密钥](/cad2019/)
+[Autodesk2018win激活文件](https://ods.lanzoui.com/iskfVuck0he) [序列号及密钥](/cad2018/)
+[Autodesk2017win激活文件](https://ods.lanzoui.com/iGP0Iuck07e) [序列号及密钥](/cad2017/)
+[Autodesk2016win激活文件](https://ods.lanzoui.com/iBbJFuck02j) [序列号及密钥](/cad2016/)
+[Autodesk2015win&mac激活文件](https://ods.lanzoui.com/ivrAJucjzmd) [序列号及密钥](/cad2015/)
+[Autodesk2014win激活文件](https://ods.lanzoui.com/iTKMVuck34j) [序列号及密钥](/cad2014/)
+[Autodesk2013win&mac激活文件](https://ods.lanzoui.com/ia1DUuck32h) [序列号及密钥](/cad2013/)
+[Autodesk2012win激活文件](https://ods.lanzoui.com/ip7O7uck2va) [序列号及密钥](/cad2012/)
+[Autodesk2011win激活文件](https://ods.lanzoui.com/iTmFHuck2gf) [序列号及密钥](/cad2011/)
+[Autodesk2010win激活文件](https://ods.lanzoui.com/iVtpkuck2cb) [序列号及密钥](/cad2010/)
+[Autodesk2009win激活文件](https://ods.lanzoui.com/iXrjiuck29i) [序列号及密钥](/cad2009/)
+[Autodesk2008win激活文件](https://ods.lanzoui.com/iKu9Quck26f) [序列号及密钥](/cad2008/)
+[Autodesk2007win激活文件](https://ods.lanzoui.com/iCPQPuck23c) [序列号及密钥](/cad2007/)
+[Autodesk2006win激活文件](https://ods.lanzoui.com/i5S9nuck1zi) [序列号及密钥](/cad2006/)
 
 ### CAD激活教程
 
 **[激活教程](/cad/)**
-网上的注册机程序五花八门，甚至有些只是修改了一下版本号，功能无法激活，这里的都是原作者论坛的源文件。
+
 
 ## Adobe 全家桶
 Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustrator、Adobe Premiere Pro、Adobe rLightroom、Adobe rDreamweaver、Adobe rAnimate、Adobe rAfter   Adobe rEffects、Adobe rAdobe XD、Adobe rAudition、Adobe rPrelude、Adobe rBridge、Adobe rCharacter_Animator、Adobe rInCopy、Adobe rMedia Encoder 
 
-#### Windows 平台
+### Windows 平台
 
 [[百度网盘]Adobe 全家桶  WIN 2017](https://pan.baidu.com/s/1qkphct5gWfgz0t5JBSa0Zw)
 
@@ -114,7 +93,7 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 [[百度网盘]Adobe Elements Win x64  2021 简化版](https://pan.baidu.com/s/17NJaMZAzzGK8qhB3WS0A2w)
 
 
-#### Mac 平台
+### Mac 平台
 
 
 [[百度网盘]Adobe 全家桶  Mac 2018](https://pan.baidu.com/s/1BLajy0jxDhncvxCWxvq21A)
