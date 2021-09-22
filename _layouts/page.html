@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="page clearfix" post>
+    <div class="left">
+        <h1>{{page.title}}</h1>
+        <hr>
+        {{content}}
+    </div>
+    <button class="anchor"><i class="fa fa-anchor"></i></button>
+    <div class="right">
+        <div class="wrap">
+
+            <!-- Content -->
+            <div class="side content">
+                <div>
+                    目录
+                </div>
+                <ul id="content-side" class="content-ul">
+                </ul>
+            </div>
+            <!-- 其他div框放到这里 -->
+            <!-- 淘宝店 -->
+			<div class="side taobao">
+				<div>
+					店铺地址（手机电脑均可访问）
+				</div>
+                <div><a href="https://ms365.taobao.com">ms365.taobao.com</a></div>
+			</div>
+			<div class="side mtaobao">
+				<div>
+					手机淘宝扫码访问
+				</div>
+                    <div class="img2wbg">
+                        <div class="img2w">							            				                                                        <!-- test32: http://gqrcode.alicdn.com/img?type=hv&w=128&h=128&text=http://shop533924291.m.taobao.com -->
+                            <a href="https://ms365.taobao.com">
+								<img src="http://gqrcode.alicdn.com/img?type=hv&w=128&h=128&text=http://ms365.taobao.com" alt="" width="124" height="124">
+							</a>
+                        </div>
+                    </div>
+			</div>
+            <!-- <div class="side">bbbb</div> -->
+        </div>
+    </div>
+</div>
+<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
