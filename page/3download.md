@@ -68,13 +68,13 @@ type: page
 
 [Autodesk2010win激活文件](https://ods.lanzoui.com/iVtpkuck2cb) [序列号及密钥](/cad2010/)
 
-[Autodesk2009win激活文件](https://ods.lanzoui.com/iXrjiuck29i) [序列号及密钥](/cad2009/)
+[Autodesk2009win激活文件](https://ods.lanzoui.com/iXrjiuck29i)
 
-[Autodesk2008win激活文件](https://ods.lanzoui.com/iKu9Quck26f) [序列号及密钥](/cad2008/)
+[Autodesk2008win激活文件](https://ods.lanzoui.com/iKu9Quck26f)
 
-[Autodesk2007win激活文件](https://ods.lanzoui.com/iCPQPuck23c) [序列号及密钥](/cad2007/)
+[Autodesk2007win激活文件](https://ods.lanzoui.com/iCPQPuck23c)
 
-[Autodesk2006win激活文件](https://ods.lanzoui.com/i5S9nuck1zi) [序列号及密钥](/cad2006/)
+[Autodesk2006win激活文件](https://ods.lanzoui.com/i5S9nuck1zi)
 
 ## Adobe 全家桶
 Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustrator、Adobe Premiere Pro、Adobe rLightroom、Adobe rDreamweaver、Adobe rAnimate、Adobe rAfter   Adobe rEffects、Adobe rAdobe XD、Adobe rAudition、Adobe rPrelude、Adobe rBridge、Adobe rCharacter_Animator、Adobe rInCopy、Adobe rMedia Encoder 
