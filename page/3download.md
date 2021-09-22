@@ -41,7 +41,7 @@ type: page
 #### CAD 激活文件下载
 **[CAD激活教程](/cad/)**
 
-[Autodesk2022win&mac激活文件](https://ods.lanzoui.com/iJgnDuck1qj) [序列号及密钥](/cad2022/)
+[Autodesk2022win&mac激活文件](https://ods.lanzoui.com/iJgnDuck1qj) [序列号及密钥暂无！]()
 
 [Autodesk2021win&mac激活文件](https://ods.lanzoui.com/iphLyuck1eh) [序列号及密钥](/cad2021/)
 
