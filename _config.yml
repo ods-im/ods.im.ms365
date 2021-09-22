@@ -9,7 +9,7 @@
 title: 网络激活大师
 brief-intro: 的疑难杂症解决之地
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ms.it365.site" # the base hostname & protocol for your site
+url: "https://ods.im" # the base hostname & protocol for your site
 
 # permalink: /:year/:month/:day/:title/
 permalink: /:title/
