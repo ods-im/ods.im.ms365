@@ -76,8 +76,6 @@ type: page
 
 [Autodesk2006win激活文件](https://ods.lanzoui.com/i5S9nuck1zi) [序列号及密钥](/cad2006/)
 
-### CAD激活教程
-**[激活教程](/cad/)**
 ## Adobe 全家桶
 Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustrator、Adobe Premiere Pro、Adobe rLightroom、Adobe rDreamweaver、Adobe rAnimate、Adobe rAfter   Adobe rEffects、Adobe rAdobe XD、Adobe rAudition、Adobe rPrelude、Adobe rBridge、Adobe rCharacter_Animator、Adobe rInCopy、Adobe rMedia Encoder 
 
