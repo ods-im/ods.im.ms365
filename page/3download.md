@@ -12,10 +12,10 @@ type: page
 **快速跳转指引**
 
 - [本店主营](/download/#本店主营)
-- [CAD资源中心](/download/#CAD)
-- [Adobe资源中心](/download/#Adobe全家桶)
-- [CorelDRAW资源中心](/download/#CorelDRAW)
-- [Windows资源中心](/download/#Windows)
+- [CAD资源中心](/download/#cad)
+- [Adobe资源中心](/download/#adobe全家桶)
+- [CorelDRAW资源中心](/download/#coreldraw)
+- [Windows资源中心](/download/#windows)
 ## 本店主营 
 
 * Autodesk系列软件激活文件：支持激活3ds Max、AutoCAD、AutoCAD Mechanical等程序，支持2006-2022版本的Autodesk软件。
@@ -132,20 +132,13 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 ### Windows
 
 #### Windows下载中心
-|文件名|发布时间|>ED2K|BT|
-
+|文件名|发布时间|ED2K|BT|
 |---|---|---|---|
-
 |Windows 7 Ultimate with Service Pack 1 (x64) - DVD (Chinese-Simplified)|2011-05-12|[链接][1]|[链接][2]|
-
 |Windows 7 Ultimate with Service Pack 1 (x86) - DVD (Chinese-Simplified)|2011-05-12|[链接][3]|[链接][4]|
-
 |Windows 10 (business edition), version 21H1 (updated Aug 2021) (x64) - DVD (Chinese-Simplified)|2021-08-17|[链接][5]|[链接][6]|
-
 |Windows 10 (consumer edition), version 21H1 (updated Aug 2021) (x64) - DVD (Chinese-Simplified)|2021-08-17|[链接][7]|[链接][8]|
-
 |Windows 11 Insider Preview (Dev Channel) - Build 22454|2021-09-11|[链接][9]|[链接][10]|
-
 |Windows 11 Insider Preview (Beta Channel) - Build 22000.132|2021-08-13|[链接][11]|[链接][12]|
 
 #### Windows密钥
