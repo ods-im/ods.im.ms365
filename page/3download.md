@@ -132,6 +132,7 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 ### Windows
 
 #### Windows下载中心
+
 | 文件名 | 发布时间 | ED2K | BT |
 | --- | --- | --- | --- |
 |Windows 7 Ultimate with Service Pack 1 (x64) - DVD (Chinese-Simplified)|2011-05-12|[链接][1]|[链接][2]|
