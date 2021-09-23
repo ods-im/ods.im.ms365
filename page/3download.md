@@ -14,13 +14,17 @@ type: page
 - [本店主营](/download/#本店主营)
 - [CAD资源中心](/download/#cad)
 - [Adobe资源中心](/download/#adobe全家桶)
-- [CorelDRAW资源中心](/download/#coreldraw)
+- [Corel资源中心](/download/#corel)
 - [Windows资源中心](/download/#windows)
 ## 本店主营 
 
 * Autodesk系列软件激活文件：支持激活3ds Max、AutoCAD、AutoCAD Mechanical等程序，支持2006-2022版本的Autodesk软件。
 
+* Corel系列软件激活文件：支持激活CorelDRAW、Corel Painter、Corel PaintShop、Corel VideoStudio等程序，支持2015-2021版本的Corel系列软件。
+
 * Adobe全家桶提供的安装包：无需登录、无需激活、安装即用！一次购买，永久使用！支持WIN/MAC双平台！
+
+* Windows系统文件及激活密钥：Windows7/8/10/11
 
 * Windows10数字激活：一次激活，永久使用，数字激活，可绑定微软账号！
 
@@ -28,9 +32,8 @@ type: page
 
 * 各种手机软件、电脑软件永久激活码、限时激活码：如WPS一月会员cdkey、腾讯视频会员等等
 
-* Windows 激活密钥：Windows7/8/10/11
 
-* 提取码购买地址：点击左上角“ [网络激活大师](https://ms365.taobao.com) “即可
+* 提取码购买地址：点击左上角“ **[网络激活大师](https://ms365.taobao.com)**“即可
 
 ## 下载
 
