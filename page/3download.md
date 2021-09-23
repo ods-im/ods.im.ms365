@@ -14,7 +14,7 @@ type: page
 - [本店主营](/download/#本店主营)
 - [CAD资源中心](/download/#CAD)
 - [Adobe资源中心](/download/#Adobe全家桶)
-- [CorelDRAW资源中心](/download/#Adobe全家桶)
+- [CorelDRAW资源中心](/download/#CorelDRAW)
 - [Windows资源中心](/download/#Windows)
 ## 本店主营 
 
