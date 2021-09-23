@@ -18,9 +18,9 @@ type: page
                     {% for post in posts %}
                         {% if post.url %}
                         <li>
-                            <time>
+                           <!--  <time>
                             {{ post.date | date:"%F" }} {{ post.date | date: "%a" }}.
-                            </time>
+                            </time> -->
                             <a class="title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 
                             {% include category.html %}
