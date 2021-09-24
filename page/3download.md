@@ -54,23 +54,23 @@ type: page
 
 | 版本 | 下载|序列号密钥 |
 | --- | --- | --- |
-|Autodesk2022|[win&mac激活文件](https://ods.lanzoui.com/iJgnDuck1qj) |无需序列号及密钥|
-|Autodesk2021|[win&mac激活文件](https://ods.lanzoui.com/iphLyuck1eh) |[无需序列号及密钥](/cad2021/)|
-|Autodesk2020|[win&mac激活文件](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)|
-|Autodesk2019|[win激活文件](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)|
-|Autodesk2018|[win激活文件](https://ods.lanzoui.com/iskfVuck0he) |[序列号及密钥](/cad2018/)|
-|Autodesk2017|[win激活文件](https://ods.lanzoui.com/iGP0Iuck07e) |[序列号及密钥](/cad2017/)|
-|Autodesk2016|[win激活文件](https://ods.lanzoui.com/iBbJFuck02j) |[序列号及密钥](/cad2016/)|
-|Autodesk2015|[win&mac激活文件](https://ods.lanzoui.com/ivrAJucjzmd) |[序列号及密钥](/cad2015/)|
-|Autodesk2014|[win激活文件](https://ods.lanzoui.com/iTKMVuck34j) |[序列号及密钥](/cad2014/)|
-|Autodesk2013|[win&mac激活文件](https://ods.lanzoui.com/ia1DUuck32h) |[序列号及密钥](/cad2013/)|
-|Autodesk2012|[win激活文件](https://ods.lanzoui.com/ip7O7uck2va) |[序列号及密钥](/cad2012/)|
-|Autodesk2011|[win激活文件](https://ods.lanzoui.com/iTmFHuck2gf) |[序列号及密钥](/cad2011/)|
-|Autodesk2010|[win激活文件](https://ods.lanzoui.com/iVtpkuck2cb) |[序列号及密钥](/cad2010/)|
-|Autodesk2009|[win激活文件](https://ods.lanzoui.com/iXrjiuck29i) |无需序列号及密钥|
-|Autodesk2008|[win激活文件](https://ods.lanzoui.com/iKu9Quck26f) |无需序列号及密钥|
-|Autodesk2007|[win激活文件](https://ods.lanzoui.com/iCPQPuck23c) |无需序列号及密钥|
-|Autodesk2006|[win激活文件](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥|
+|[AutoCAD2022安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iJgnDuck1qj) |无需序列号及密钥|
+|[AutoCAD2021安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD2021激活文件win&mac](https://ods.lanzoui.com/iphLyuck1eh) |[无需序列号及密钥](/cad2021/)|
+|[AutoCAD2020安装包](https://pan.baidu.com/s/1hLkX-TM1IIF9O1Xsl12_lw)|[CAD2020激活文件win&mac](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)|
+|[AutoCAD2019安装包](https://pan.baidu.com/s/1nYGWrUHY6ziTLpzCt0561g)|[CAD2019激活文件win](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)|
+|[AutoCAD2018安装包](https://pan.baidu.com/s/1l63H8LtujA6ib8P_QxpYNw)|[CAD2018激活文件win](https://ods.lanzoui.com/iskfVuck0he) |[序列号及密钥](/cad2018/)|
+|[AutoCAD2017安装包](https://pan.baidu.com/s/1_OfwHDrRdNfz5kvOWAzkPw)|[CAD2017激活文件win](https://ods.lanzoui.com/iGP0Iuck07e) |[序列号及密钥](/cad2017/)|
+|[AutoCAD2016安装包](https://pan.baidu.com/s/1uu7y2lecjZJTgt88VxSB1g)|[CAD2016激活文件win](https://ods.lanzoui.com/iBbJFuck02j) |[序列号及密钥](/cad2016/)|
+|[AutoCAD2015安装包](https://pan.baidu.com/s/1SYksVl3Dhp-EWuCdReKAiA)|[CAD2015激活文件win&mac](https://ods.lanzoui.com/ivrAJucjzmd) |[序列号及密钥](/cad2015/)|
+|[AutoCAD2014安装包](https://pan.baidu.com/s/1fPYrHshObMN8biVqDLB1tA)|[CAD2014激活文件win](https://ods.lanzoui.com/iTKMVuck34j) |[序列号及密钥](/cad2014/)|
+|[AutoCAD2013安装包](https://pan.baidu.com/s/158taj0FozVj4tkroY1tiaw)|[CAD2013激活文件win&mac](https://ods.lanzoui.com/ia1DUuck32h) |[序列号及密钥](/cad2013/)|
+|[AutoCAD2012安装包](https://pan.baidu.com/s/1Ak9jSD9G7w3DvKYAwS5Rvw)|[CAD2012激活文件win](https://ods.lanzoui.com/ip7O7uck2va) |[序列号及密钥](/cad2012/)|
+|[AutoCAD2011安装包](https://pan.baidu.com/s/1CmfgfGiwnmZJwZDKzVCE9g)|[CAD2011激活文件win](https://ods.lanzoui.com/iTmFHuck2gf) |[序列号及密钥](/cad2011/)|
+|[AutoCAD2010安装包](https://pan.baidu.com/s/1OgCrzyh3LDzyed9rC3F1aw)|[CAD2010激活文件win](https://ods.lanzoui.com/iVtpkuck2cb) |[序列号及密钥](/cad2010/)|
+|[AutoCAD2009安装包](https://pan.baidu.com/s/1v20ivGADW6n99clww80j9Q)|[CAD2009激活文件win](https://ods.lanzoui.com/iXrjiuck29i) |无需序列号及密钥|
+|[AutoCAD2008安装包](https://pan.baidu.com/s/1OMX0AmQRMiyNhF2yDWZiJw)|[CAD2008激活文件win](https://ods.lanzoui.com/iKu9Quck26f) |无需序列号及密钥|
+|[AutoCAD2007安装包](https://pan.baidu.com/s/1mTALnVqBKrlcqZQm5rcTcg)|[CAD2007激活文件win](https://ods.lanzoui.com/iCPQPuck23c) |无需序列号及密钥|
+|[AutoCAD2006安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD2006激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥|
 
 ### Adobe全家桶
 Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustrator、Adobe Premiere Pro、Adobe rLightroom、Adobe rDreamweaver、Adobe rAnimate、Adobe rAfter   Adobe rEffects、Adobe rAdobe XD、Adobe rAudition、Adobe rPrelude、Adobe rBridge、Adobe rCharacter_Animator、Adobe rInCopy、Adobe rMedia Encoder 
@@ -87,7 +87,7 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 [[百度网盘]Adobe 全家桶  Win 2021](https://pan.baidu.com/s/1yR9HjMgLC86foN4JbkTrqQ)
 
-[[百度网盘]Adobe Acrobat SP版](https://pan.baidu.com/s/1Rz7_43gHHt-S3c1eXTPaLQ)
+[[百度网盘]Adobe Acrobat PDF SP版](https://pan.baidu.com/s/1Rz7_43gHHt-S3c1eXTPaLQ)
 
 [[百度网盘]Adobe Captivate Win x64 SP版](https://pan.baidu.com/s/1IJetSmOPsHhhoeb5_Vv1FA)
 
