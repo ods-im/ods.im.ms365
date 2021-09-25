@@ -38,8 +38,8 @@ type: page
 ## 下载
 
 ### 远程控制
-* [RUSTDESK下载](http://gitee.com/rustdesk/rustdesk/attach_files/815641/download/rustdesk-1.1.8-windows_x64-portable.zip) :解压双击即可，无需安装！
-* [RUSTDESK官网](http://rustdesk.com/zh/)
+* [AnyViewer下载[需安装运行]](https://download.aomeikeji.com/Anyviewer.zip) 
+* [向日葵下载[可以选择不安装允许]](https://sunlogin.oray.com/download/)
 
 
 ### CAD 
@@ -93,6 +93,7 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 [[百度网盘]Adobe Elements Win x64  2021 简化版](https://pan.baidu.com/s/17NJaMZAzzGK8qhB3WS0A2w)
 
+[[百度网盘]Adobe Elements Win x64  2022 简化版](https://pan.baidu.com/s/17NJaMZAzzGK8qhB3WS0A2w)
 
 #### Mac 平台
 
@@ -103,8 +104,9 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 [[百度网盘]Adobe 全家桶  Mac 2020](https://pan.baidu.com/s/1dLKOYtGvXfX8Z9KDt55JFA)
 
-[[百度网盘]Adobe 全家桶  Mac M1 2021](https://pan.baidu.com/s/1yISAD5U5QiRQchcTSWEC9w)
+[[百度网盘]Adobe 全家桶  Mac 2021](https://pan.baidu.com/s/1yISAD5U5QiRQchcTSWEC9w)
 
+[[百度网盘]Adobe 全家桶  M1 2021](https://pan.baidu.com/s/1yISAD5U5QiRQchcTSWEC9w)
 ### CorelDRAW
 
 #### CorelDRAW激活教程
