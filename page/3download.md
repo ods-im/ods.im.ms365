@@ -37,42 +37,36 @@ type: page
 
 ## 下载
 
-### 远程控制
+### 远程控制软件
 * [AnyViewer下载[需安装运行]](https://download.aomeikeji.com/Anyviewer.zip) 
 * [向日葵下载[可以选择不安装允许]](https://sunlogin.oray.com/download/)
 
 
-### CAD 
+### CAD下载中心
 
-#### CAD安装包下载
-[AutoCAD下载](https://www.autodesk.com/free-trials)
 
-#### CAD激活教程
-[CAD激活教程](/cad/)
-
-#### CAD激活文件下载
-
-| 安装包 | 激活文件下载 | 序列号及密钥 |
-| --- | --- | --- |
-|[AutoCAD2022安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iJgnDuck1qj) |无需序列号及密钥|
-|[AutoCAD2021安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD2021激活文件win&mac](https://ods.lanzoui.com/iphLyuck1eh) |[无需序列号及密钥](/cad2021/)|
-|[AutoCAD2020安装包](https://pan.baidu.com/s/1hLkX-TM1IIF9O1Xsl12_lw)|[CAD2020激活文件win&mac](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)|
-|[AutoCAD2019安装包](https://pan.baidu.com/s/1nYGWrUHY6ziTLpzCt0561g)|[CAD2019激活文件win](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)|
-|[AutoCAD2018安装包](https://pan.baidu.com/s/1l63H8LtujA6ib8P_QxpYNw)|[CAD2018激活文件win](https://ods.lanzoui.com/iskfVuck0he) |[序列号及密钥](/cad2018/)|
-|[AutoCAD2017安装包](https://pan.baidu.com/s/1_OfwHDrRdNfz5kvOWAzkPw)|[CAD2017激活文件win](https://ods.lanzoui.com/iGP0Iuck07e) |[序列号及密钥](/cad2017/)|
-|[AutoCAD2016安装包](https://pan.baidu.com/s/1uu7y2lecjZJTgt88VxSB1g)|[CAD2016激活文件win](https://ods.lanzoui.com/iBbJFuck02j) |[序列号及密钥](/cad2016/)|
-|[AutoCAD2015安装包](https://pan.baidu.com/s/1SYksVl3Dhp-EWuCdReKAiA)|[CAD2015激活文件win&mac](https://ods.lanzoui.com/ivrAJucjzmd) |[序列号及密钥](/cad2015/)|
-|[AutoCAD2014安装包](https://pan.baidu.com/s/1fPYrHshObMN8biVqDLB1tA)|[CAD2014激活文件win](https://ods.lanzoui.com/iTKMVuck34j) |[序列号及密钥](/cad2014/)|
-|[AutoCAD2013安装包](https://pan.baidu.com/s/158taj0FozVj4tkroY1tiaw)|[CAD2013激活文件win&mac](https://ods.lanzoui.com/ia1DUuck32h) |[序列号及密钥](/cad2013/)|
-|[AutoCAD2012安装包](https://pan.baidu.com/s/1Ak9jSD9G7w3DvKYAwS5Rvw)|[CAD2012激活文件win](https://ods.lanzoui.com/ip7O7uck2va) |[序列号及密钥](/cad2012/)|
-|[AutoCAD2011安装包](https://pan.baidu.com/s/1CmfgfGiwnmZJwZDKzVCE9g)|[CAD2011激活文件win](https://ods.lanzoui.com/iTmFHuck2gf) |[序列号及密钥](/cad2011/)|
-|[AutoCAD2010安装包](https://pan.baidu.com/s/1OgCrzyh3LDzyed9rC3F1aw)|[CAD2010激活文件win](https://ods.lanzoui.com/iVtpkuck2cb) |[序列号及密钥](/cad2010/)|
-|[AutoCAD2009安装包](https://pan.baidu.com/s/1v20ivGADW6n99clww80j9Q)|[CAD2009激活文件win](https://ods.lanzoui.com/iXrjiuck29i) |无需序列号及密钥|
-|[AutoCAD2008安装包](https://pan.baidu.com/s/1OMX0AmQRMiyNhF2yDWZiJw)|[CAD2008激活文件win](https://ods.lanzoui.com/iKu9Quck26f) |无需序列号及密钥|
-|[AutoCAD2007安装包](https://pan.baidu.com/s/1mTALnVqBKrlcqZQm5rcTcg)|[CAD2007激活文件win](https://ods.lanzoui.com/iCPQPuck23c) |无需序列号及密钥|
-|[AutoCAD2006安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD2006激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥|
+| 安装包 | 激活文件下载 | 序列号及密钥 | 激活教程 |
+| --- | --- | --- | --- |
+|[AutoCAD2022安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iJgnDuck1qj) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2022激活图文教程) |
+|[AutoCAD2021安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD2021激活文件win&mac](https://ods.lanzoui.com/iphLyuck1eh) |[无需序列号及密钥](/cad2021/)| [激活图文教程](/cad/#autodesk2021激活教程) |
+|[AutoCAD2020安装包](https://pan.baidu.com/s/1hLkX-TM1IIF9O1Xsl12_lw)|[CAD2020激活文件win&mac](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2019安装包](https://pan.baidu.com/s/1nYGWrUHY6ziTLpzCt0561g)|[CAD2019激活文件win](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2018安装包](https://pan.baidu.com/s/1l63H8LtujA6ib8P_QxpYNw)|[CAD2018激活文件win](https://ods.lanzoui.com/iskfVuck0he) |[序列号及密钥](/cad2018/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2017安装包](https://pan.baidu.com/s/1_OfwHDrRdNfz5kvOWAzkPw)|[CAD2017激活文件win](https://ods.lanzoui.com/iGP0Iuck07e) |[序列号及密钥](/cad2017/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2016安装包](https://pan.baidu.com/s/1uu7y2lecjZJTgt88VxSB1g)|[CAD2016激活文件win](https://ods.lanzoui.com/iBbJFuck02j) |[序列号及密钥](/cad2016/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2015安装包](https://pan.baidu.com/s/1SYksVl3Dhp-EWuCdReKAiA)|[CAD2015激活文件win&mac](https://ods.lanzoui.com/ivrAJucjzmd) |[序列号及密钥](/cad2015/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2014安装包](https://pan.baidu.com/s/1fPYrHshObMN8biVqDLB1tA)|[CAD2014激活文件win](https://ods.lanzoui.com/iTKMVuck34j) |[序列号及密钥](/cad2014/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2013安装包](https://pan.baidu.com/s/158taj0FozVj4tkroY1tiaw)|[CAD2013激活文件win&mac](https://ods.lanzoui.com/ia1DUuck32h) |[序列号及密钥](/cad2013/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2012安装包](https://pan.baidu.com/s/1Ak9jSD9G7w3DvKYAwS5Rvw)|[CAD2012激活文件win](https://ods.lanzoui.com/ip7O7uck2va) |[序列号及密钥](/cad2012/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2011安装包](https://pan.baidu.com/s/1CmfgfGiwnmZJwZDKzVCE9g)|[CAD2011激活文件win](https://ods.lanzoui.com/iTmFHuck2gf) |[序列号及密钥](/cad2011/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2010安装包](https://pan.baidu.com/s/1OgCrzyh3LDzyed9rC3F1aw)|[CAD2010激活文件win](https://ods.lanzoui.com/iVtpkuck2cb) |[序列号及密钥](/cad2010/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2009安装包](https://pan.baidu.com/s/1v20ivGADW6n99clww80j9Q)|[CAD2009激活文件win](https://ods.lanzoui.com/iXrjiuck29i) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2008安装包](https://pan.baidu.com/s/1OMX0AmQRMiyNhF2yDWZiJw)|[CAD2008激活文件win](https://ods.lanzoui.com/iKu9Quck26f) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2007安装包](https://pan.baidu.com/s/1mTALnVqBKrlcqZQm5rcTcg)|[CAD2007激活文件win](https://ods.lanzoui.com/iCPQPuck23c) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2006安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD2006激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 
 ### Adobe全家桶
+
 Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustrator、Adobe Premiere Pro、Adobe rLightroom、Adobe rDreamweaver、Adobe rAnimate、Adobe rAfter   Adobe rEffects、Adobe rAdobe XD、Adobe rAudition、Adobe rPrelude、Adobe rBridge、Adobe rCharacter_Animator、Adobe rInCopy、Adobe rMedia Encoder 
 
 
@@ -92,18 +86,15 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 ### CorelDRAW
 
-#### CorelDRAW激活教程
-[激活教程](/Corel/)
-#### CorelDRAW激活文件
 
 **安装包版本与激活文件并不一一对应，激活文件支持版本在激活教程页查看**
 
-| 安装包 | 激活文件|
-| --- | --- |
-| [CorelDRAW2021]() |[X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd)|
-| [CorelDRAW2020]() |[X-Force 2020](https://ods.lanzoui.com/ihta2ue1llc)|
-| [CorelDRAW2019]() |[X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb)|
-| [CorelDRAW2018]() |[Corel激活方案](https://ods.lanzoui.com/isbWEue1lne)|
+| 安装包 | 激活文件 | 激活教程及支持产品 |
+| --- | --- | --- |
+| [CorelDRAW2021]() | [X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd) | [X-Force激活教程](/Corel/#x-force激活方案教程) |
+| [CorelDRAW2020]() | [X-Force 2020](https://ods.lanzoui.com/ihta2ue1llc) | [X-Force激活支持产品列表](/Corel/#x-force激活方案支持产品列表) |
+| [CorelDRAW2019]() | [X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb) | [Corel激活教程](/Corel/#corel激活方案教程) |
+| [CorelDRAW2018]() | [Corel激活文件](https://ods.lanzoui.com/isbWEue1lne) | [Corel激活支持产品列表](/Corel/#corel激活方案支持产品列表) |
 
 ### Windows
 
