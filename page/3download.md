@@ -42,7 +42,7 @@ type: page
 * [向日葵下载[可以选择不安装允许]](https://sunlogin.oray.com/download/)
 
 
-### CAD下载中心
+### CAD资源中心
 
 
 | 安装包 | 激活文件下载 | 序列号及密钥 | 激活教程 |
@@ -84,7 +84,7 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 | [[百度网盘]Adobe Elements Win x64  2022 简化版](https://pan.baidu.com/s/17NJaMZAzzGK8qhB3WS0A2w) | 
 
 
-### CorelDRAW
+### CorelDRAW资源中心
 
 
 **以下表格中的每一行并不一一对应，按照竖列对应内容查看即可**
@@ -96,9 +96,9 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 | [CorelDRAW2019]() | [X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb) | [Corel激活教程](/Corel/#corel激活方案教程) |
 | [CorelDRAW2018]() | [Corel激活文件](https://ods.lanzoui.com/isbWEue1lne) | [Corel激活支持产品列表](/Corel/#corel激活方案支持产品列表) |
 
-### Windows
+### Windows资源中心
 
-#### Windows下载中心
+本店铺提供Windows的安装、激活服务及Office的安装激活服务！
 
 | 系统版本 | 发布时间 | 迅雷下载(ED2K) | BT链接 |
 | --- | --- | --- | --- |
