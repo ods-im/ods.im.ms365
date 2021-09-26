@@ -115,8 +115,8 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 **安装包版本与激活文件并不一一对应，激活文件支持版本在激活教程页查看**
 
-| 安装包 | 激活文件|序列号密钥 |
-| --- | --- | --- |
+| 安装包 | 激活文件|
+| --- | --- |
 | [CorelDRAW2021]() |[X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd)|
 | [CorelDRAW2020]() |[X-Force 2020](https://ods.lanzoui.com/ihta2ue1llc)|
 | [CorelDRAW2019]() |[X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb)|
