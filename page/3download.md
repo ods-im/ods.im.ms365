@@ -52,7 +52,7 @@ type: page
 
 #### CAD激活文件下载
 
-| 版本 | 下载|序列号密钥 |
+| 安装包 | 激活文件下载 | 序列号及密钥 |
 | --- | --- | --- |
 |[AutoCAD2022安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iJgnDuck1qj) |无需序列号及密钥|
 |[AutoCAD2021安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD2021激活文件win&mac](https://ods.lanzoui.com/iphLyuck1eh) |[无需序列号及密钥](/cad2021/)|
@@ -83,8 +83,8 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 | [[百度网盘]Adobe 全家桶  Win 2019](https://pan.baidu.com/s/1vkUzXAhgwALroOnZSof1mw) | [[百度网盘]Adobe 全家桶  Mac 2019](https://pan.baidu.com/s/1eAXcAR1-2ONnXAe-SVpurQ) |
 | [[百度网盘]Adobe 全家桶  Win 2020](https://pan.baidu.com/s/1gChCB9jE6OZ8YdDNy392Bg) | [[百度网盘]Adobe 全家桶  Mac 2020](https://pan.baidu.com/s/1dLKOYtGvXfX8Z9KDt55JFA) |
 | [[百度网盘]Adobe 全家桶  Win 2021](https://pan.baidu.com/s/1yR9HjMgLC86foN4JbkTrqQ) | [[百度网盘]Adobe 全家桶  Mac 2021](https://pan.baidu.com/s/1yISAD5U5QiRQchcTSWEC9w) |
-| [[百度网盘]Adobe Acrobat PDF SP版](https://pan.baidu.com/s/1Rz7_43gHHt-S3c1eXTPaLQ) | |
 | | [[百度网盘]Adobe 全家桶  M1 2021](https://pan.baidu.com/s/1yISAD5U5QiRQchcTSWEC9w) |
+| [[百度网盘]Adobe Acrobat PDF SP版](https://pan.baidu.com/s/1Rz7_43gHHt-S3c1eXTPaLQ) | |
 | [[百度网盘]Adobe Captivate Win x64 SP版](https://pan.baidu.com/s/1IJetSmOPsHhhoeb5_Vv1FA) | 
 | [[百度网盘]Adobe Elements Win x64  2021 简化版](https://pan.baidu.com/s/17NJaMZAzzGK8qhB3WS0A2w) | 
 | [[百度网盘]Adobe Elements Win x64  2022 简化版](https://pan.baidu.com/s/17NJaMZAzzGK8qhB3WS0A2w) | 
@@ -109,7 +109,7 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 #### Windows下载中心
 
-| 文件名 | 发布时间 | ED2K(迅雷下载) | BT链接 |
+| 系统版本 | 发布时间 | ED2K(迅雷下载) | BT链接 |
 | --- | --- | --- | --- |
 Windows 7 Ultimate with Service Pack 1 (x64) - DVD (Chinese-Simplified)|2011-05-12|[链接][1]|[链接][2]|
 Windows 7 Ultimate with Service Pack 1 (x86) - DVD (Chinese-Simplified)|2011-05-12|[链接][3]|[链接][4]|
