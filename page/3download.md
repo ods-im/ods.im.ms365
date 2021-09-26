@@ -113,19 +113,20 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 [激活教程](/Corel/)
 #### CorelDRAW激活文件
 
-[X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd)
+**安装包版本与激活文件并不一一对应，激活文件支持版本在激活教程页查看**
 
-[X-Force 2020](https://ods.lanzoui.com/ihta2ue1llc)
-
-[X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb)
-
-[Corel激活方案](https://ods.lanzoui.com/isbWEue1lne)
+| 安装包 | 激活文件|序列号密钥 |
+| --- | --- | --- |
+| [CorelDRAW2021]() |[X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd)|
+| [CorelDRAW2020]() |[X-Force 2020](https://ods.lanzoui.com/ihta2ue1llc)|
+| [CorelDRAW2019]() |[X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb)|
+| [CorelDRAW2018]() |[Corel激活方案](https://ods.lanzoui.com/isbWEue1lne)|
 
 ### Windows
 
 #### Windows下载中心
 
-| 文件名 | 发布时间 | ED2K | BT |
+| 文件名 | 发布时间 | ED2K(迅雷下载) | BT链接 |
 | --- | --- | --- | --- |
 Windows 7 Ultimate with Service Pack 1 (x64) - DVD (Chinese-Simplified)|2011-05-12|[链接][1]|[链接][2]|
 Windows 7 Ultimate with Service Pack 1 (x86) - DVD (Chinese-Simplified)|2011-05-12|[链接][3]|[链接][4]|
