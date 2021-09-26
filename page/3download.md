@@ -12,10 +12,10 @@ type: page
 **快速跳转指引**
 
 - [本店主营](/download/#本店主营)
-- [CAD资源中心](/download/#cad)
+- [CAD资源中心](/download/#cad资源中心)
 - [Adobe资源中心](/download/#adobe全家桶)
-- [Corel资源中心](/download/#corel)
-- [Windows资源中心](/download/#windows)
+- [Corel资源中心](/download/#corel资源中心)
+- [Windows资源中心](/download/#windows资源中心)
 ## 本店主营 
 
 * Autodesk系列软件激活文件：支持激活3ds Max、AutoCAD、AutoCAD Mechanical等程序，支持2006-2022版本的Autodesk软件。
