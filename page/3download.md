@@ -113,6 +113,7 @@ Windows 11 Insider Preview (Beta Channel) - Build 22000.132|2021-08-13|[链接][
 [windows密钥支持7/8/10/11激活](https://item.taobao.com/item.htm?ft=t&id=656613587666)
 #### Windows 10数字激活
 [windows 10数字](https://ods.lanzoui.com/i1lPsu0kkaf)
+[office转换](https://ods.lanzoui.com/ikWtUukpkte)
 
 [1]: ed2k://|file|cn_Windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/
 [2]: magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_Windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312
