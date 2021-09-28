@@ -104,11 +104,11 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 | 系统版本 | 阿里云下载 | 
 | --- | --- |
-Windows 7 (64位) | [链接][1]|
-Windows 7 (32位) | [链接][2]|
-Windows 10 (64位)| [链接][3]|
-Windows 11  - Build 22000.197|2021-09-24|[阿里云链接][4]|
-Office 2016 |[阿里云链接][5]|
+Windows 7 (64位) | [链接][1] |
+Windows 7 (32位) | [链接][2] |
+Windows 10 (64位) | [链接][3] |
+Windows 11 (64位) | [链接][4] |
+Office 2016 (64位) | [链接][5] |
 
 #### Windows密钥
 [windows密钥支持7/8/10/11激活](https://item.taobao.com/item.htm?ft=t&id=656613587666)
