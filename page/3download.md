@@ -100,15 +100,15 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 本店铺提供Windows的安装、激活服务及Office的安装激活服务！
 
-由于阿里云不能分享iso格式文件，我把iso修改成了pdf，下载后自行把后缀改为iso即可。
+由于阿里云不能分享iso格式文件，我把iso修改成了txt或PDF，下载后自行把后缀改为iso即可。
 
-| 系统版本 |  | 迅雷下载(ED2K) | BT链接 |
-| --- | --- | --- | --- |
-Windows 7 (x64) | [链接][1]|[链接][2]|
-Windows 7 (x86) | [链接][3]|[链接][4]|
-Windows 10 (x64)| [链接][5]|[链接][6]|
-Windows 11  - Build 22000.197|2021-09-24|[阿里云链接][11]||
-Office 2016 ||[阿里云链接][11]||
+| 系统版本 | 阿里云下载 | 
+| --- | --- |
+Windows 7 (64位) | [链接][1]|
+Windows 7 (32位) | [链接][2]|
+Windows 10 (64位)| [链接][3]|
+Windows 11  - Build 22000.197|2021-09-24|[阿里云链接][4]|
+Office 2016 |[阿里云链接][5]|
 
 #### Windows密钥
 [windows密钥支持7/8/10/11激活](https://item.taobao.com/item.htm?ft=t&id=656613587666)
@@ -121,15 +121,9 @@ Office 2016 ||[阿里云链接][11]||
 
 [微软官方支持地址](https://support.microsoft.com/)
 
-[1]: ed2k://|file|cn_Windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso|3420557312|B58548681854236C7939003B583A8078|/
-[2]: magnet:?xt=urn:btih:E86414F638E11104248108B155BE9408A8362509&dn=cn_Windows_7_ultimate_with_sp1_x64_dvd_u_677408.iso&xl=3420557312
-[3]: ed2k://|file|cn_Windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso|2653276160|7503E4B9B8738DFCB95872445C72AEFB|/
-[4]: magnet:?xt=urn:btih:585DF592DE43A067C75CFE5A639B41FC3F24DA6F&dn=cn_Windows_7_ultimate_with_sp1_x86_dvd_u_677486.iso&xl=2653276160
-[5]: ed2k://|file|zh-cn_Windows_10_business_editions_version_21h1_updated_aug_2021_x64_dvd_e77da303.iso|5718181888|95679849D8F40DA52EB6DAF3DE97283B|/
-[6]: ed2k://|file|zh-cn_Windows_10_business_editions_version_21h1_updated_aug_2021_x64_dvd_e77da303.iso|5718181888|95679849D8F40DA52EB6DAF3DE97283B|/
-[7]: ed2k://|file|zh-cn_Windows_10_consumer_editions_version_21h1_updated_aug_2021_x64_dvd_4de56d76.iso|5831573504|B5E8A86D6C148A11292EBE45C81773AB|/
-[8]: magnet:?xt=urn:btih:478BBEAA57454993C0C78A3018E1AE80219258CD&dn=zh-cn_Windows_10_consumer_editions_version_21h1_updated_aug_2021_x64_dvd_4de56d76.iso&xl=5831573504
-[9]: ed2k://|file|Windows11_InsiderPreview_Client_x64_zh-cn_22454.iso|4903213056|A4FD6D7058261FCB31D076BA727FAF77|/
-[10]: magnet:?xt=urn:btih:72DCA2544C2135412A0725307FB2C7CD97D22261&dn=Windows11_InsiderPreview_Client_x64_zh-cn_22454.iso&xl=4903213056
-[11]: https://www.aliyundrive.com/s/eH6QBi4BBwB
+[1]: https://www.aliyundrive.com/s/Vhs4BkCz73k
+[2]: https://www.aliyundrive.com/s/cSttWBw9VvR
+[3]: https://www.aliyundrive.com/s/nhvEy5WdbKK
+[4]: https://www.aliyundrive.com/s/eH6QBi4BBwB
+[5]: https://www.aliyundrive.com/s/Y1sjC29T7mQ6
  
