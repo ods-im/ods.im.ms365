@@ -102,13 +102,13 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 由于阿里云不能分享iso格式文件，我把iso修改成了pdf，下载后自行把后缀改为iso即可。
 
-| 系统版本 | 发布时间 | 迅雷下载(ED2K) | BT链接 |
+| 系统版本 |  | 迅雷下载(ED2K) | BT链接 |
 | --- | --- | --- | --- |
-Windows 7 Ultimate with Service Pack 1 (x64) - DVD (Chinese-Simplified)|2011-05-12|[链接][1]|[链接][2]|
-Windows 7 Ultimate with Service Pack 1 (x86) - DVD (Chinese-Simplified)|2011-05-12|[链接][3]|[链接][4]|
-Windows 10 (business edition), version 21H1 (updated Aug 2021) (x64) - DVD (Chinese-Simplified)|2021-08-17|[链接][5]|[链接][6]|
-Windows 10 (consumer edition), version 21H1 (updated Aug 2021) (x64) - DVD (Chinese-Simplified)|2021-08-17|[链接][7]|[链接][8]|
-Windows 11 Insider Preview (Beta Channel) - Build 22000.132|2021-08-13|[阿里云链接][11]||
+Windows 7 (x64) | [链接][1]|[链接][2]|
+Windows 7 (x86) | [链接][3]|[链接][4]|
+Windows 10 (x64)| [链接][5]|[链接][6]|
+Windows 11  - Build 22000.197|2021-09-24|[阿里云链接][11]||
+Office 2016 ||[阿里云链接][11]||
 
 #### Windows密钥
 [windows密钥支持7/8/10/11激活](https://item.taobao.com/item.htm?ft=t&id=656613587666)
@@ -131,5 +131,5 @@ Windows 11 Insider Preview (Beta Channel) - Build 22000.132|2021-08-13|[阿里�
 [8]: magnet:?xt=urn:btih:478BBEAA57454993C0C78A3018E1AE80219258CD&dn=zh-cn_Windows_10_consumer_editions_version_21h1_updated_aug_2021_x64_dvd_4de56d76.iso&xl=5831573504
 [9]: ed2k://|file|Windows11_InsiderPreview_Client_x64_zh-cn_22454.iso|4903213056|A4FD6D7058261FCB31D076BA727FAF77|/
 [10]: magnet:?xt=urn:btih:72DCA2544C2135412A0725307FB2C7CD97D22261&dn=Windows11_InsiderPreview_Client_x64_zh-cn_22454.iso&xl=4903213056
-[11]: https://www.aliyundrive.com/s/jmAZkPnoZuF
+[11]: https://www.aliyundrive.com/s/eH6QBi4BBwB
  
