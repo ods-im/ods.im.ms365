@@ -24,7 +24,7 @@ type: page
 
 * Adobe全家桶提供的安装包：无需登录、无需激活、安装即用！一次购买，永久使用！支持WIN/MAC双平台！
 
-* Windows系统文件及激活密钥：Windows7/8/10/11
+* Windows及office激活密钥：Windows7/8/10/11、office2010/2013/2016/2019 [不定期有]
 
 * Windows10数字激活：一次激活，永久使用，数字激活，可绑定微软账号！
 
@@ -47,7 +47,7 @@ type: page
 
 | 安装包 | 激活文件下载 | 序列号及密钥 | 激活教程 |
 | --- | --- | --- | --- |
-|[AutoCAD2022安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iF97xuo6yla) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2022激活图文教程) |
+|[AutoCAD<strong>2022</strong>安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iF97xuo6yla) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2022激活图文教程) |
 |[AutoCAD2021安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD2021激活文件win&mac](https://ods.lanzoui.com/ibl07) |[无需序列号及密钥](/cad2021/)| [激活图文教程](/cad/#autodesk2021激活教程) |
 |[AutoCAD2020安装包](https://pan.baidu.com/s/1hLkX-TM1IIF9O1Xsl12_lw)|[CAD2020激活文件win&mac](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 |[AutoCAD2019安装包](https://pan.baidu.com/s/1nYGWrUHY6ziTLpzCt0561g)|[CAD2019激活文件win](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
@@ -64,6 +64,8 @@ type: page
 |[AutoCAD2008安装包](https://pan.baidu.com/s/1OMX0AmQRMiyNhF2yDWZiJw)|[CAD2008激活文件win](https://ods.lanzoui.com/iKu9Quck26f) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 |[AutoCAD2007安装包](https://pan.baidu.com/s/1mTALnVqBKrlcqZQm5rcTcg)|[CAD2007激活文件win](https://ods.lanzoui.com/iCPQPuck23c) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 |[AutoCAD2006安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD2006激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2005安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD2006激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD2004安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD2006激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 
 ### Adobe全家桶
 
@@ -91,10 +93,8 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 | 安装包 | 激活文件 | 激活教程及支持产品 |
 | --- | --- | --- |
-| [CorelDRAW2021]() | [X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd) | [X-Force激活教程](/Corel/#x-force激活方案教程) |
-| [CorelDRAW2020]() | [X-Force 2020](https://ods.lanzoui.com/ihta2ue1llc) | [X-Force激活支持产品列表](/Corel/#x-force激活方案支持产品列表) |
-| [CorelDRAW2019]() | [X-Force 2019](https://ods.lanzoui.com/iNw6que1lkb) | [Corel激活教程](/Corel/#corel激活方案教程) |
-| [CorelDRAW2018]() | [Corel激活文件](https://ods.lanzoui.com/isbWEue1lne) | [Corel激活支持产品列表](/Corel/#corel激活方案支持产品列表) |
+| [CorelDRAW X8]() | [X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd) | [X-Force激活教程](/Corel/#x-force激活方案教程) |
+
 
 ### Windows资源中心
 
@@ -108,7 +108,8 @@ Windows 7 (64位) | [链接][1] |
 Windows 7 (32位) | [链接][2] |
 Windows 10 (64位) | [链接][3] |
 Windows 11 (64位) | [链接][4] |
-Office 2016 (64位) | [链接][5] |
+
+Office 2016 VL (64位) | [链接][5] |
 
 #### Windows密钥
 [windows密钥支持7/8/10/11激活](https://item.taobao.com/item.htm?ft=t&id=656613587666)
