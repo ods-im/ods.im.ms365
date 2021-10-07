@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大师的一些小工具
+title: 工具
 permalink: /tool/
 icon: bookmark
 type: page
