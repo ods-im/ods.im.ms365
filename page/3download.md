@@ -47,8 +47,8 @@ type: page
 
 | 安装包 | 激活文件下载 | 序列号及密钥 | 激活教程 |
 | --- | --- | --- | --- |
-|[AutoCAD<strong>2022</strong>安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD2022激活文件win&mac](https://ods.lanzoui.com/iF97xuo6yla) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2022激活图文教程) |
-|[AutoCAD2021安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD2021激活文件win&mac](https://ods.lanzoui.com/ibl07) |[无需序列号及密钥](/cad2021/)| [激活图文教程](/cad/#autodesk2021激活教程) |
+|[AutoCAD<strong>2022</strong>安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD<strong>2022</strong>激活文件win&mac](https://ods.lanzoui.com/iF97xuo6yla) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2022激活图文教程) |
+|[AutoCAD<strong>2021</strong>安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD<strong>2021</strong>激活文件win&mac](https://ods.lanzoui.com/ibl07) |[无需序列号及密钥](/cad2021/)| [激活图文教程](/cad/#autodesk2021激活教程) |
 |[AutoCAD2020安装包](https://pan.baidu.com/s/1hLkX-TM1IIF9O1Xsl12_lw)|[CAD2020激活文件win&mac](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 |[AutoCAD2019安装包](https://pan.baidu.com/s/1nYGWrUHY6ziTLpzCt0561g)|[CAD2019激活文件win](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 |[AutoCAD2018安装包](https://pan.baidu.com/s/1l63H8LtujA6ib8P_QxpYNw)|[CAD2018激活文件win](https://ods.lanzoui.com/iskfVuck0he) |[序列号及密钥](/cad2018/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
@@ -89,8 +89,6 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 ### CorelDRAW资源中心
 
 
-**以下表格中的每一行并不一一对应，按照竖列对应内容查看即可**
-
 | 安装包 | 激活文件 | 激活教程及支持产品 |
 | --- | --- | --- |
 | [CorelDRAW X8]() | [X-Force 2021](https://ods.lanzoui.com/i0HE0ue1lmd) | [X-Force激活教程](/Corel/#x-force激活方案教程) |
@@ -100,31 +98,25 @@ Adobe 全家桶包括软件： Adobe Photoshop、Adobe InDesign、Adobe Illustra
 
 本店铺提供Windows的安装、激活服务及Office的安装激活服务！
 
-由于阿里云不能分享iso格式文件，我把iso修改成了txt或PDF，下载后自行把后缀改为iso即可。
+由于阿里云分享功能暂时不能使用，所以需要下载下面的资源恢复工具，将下载的镜像文件拖拽到资源恢复工具上之后，镜像文件才能使用。
+[ODS恢复工具](https://ods.lanzoui.com/ibCM3v0uoni)
 
-| 系统版本 | 阿里云下载 | 
-| --- | --- |
-Windows 7 (64位) | [链接][1] |
-Windows 7 (32位) | [链接][2] |
-Windows 10 (64位) | [链接][3] |
-Windows 11 (64位) | [链接][4] |
+| 系统版本 | 阿里云盘下载 | 百度云盘下载 | 
+| --- | --- | --- |
+Windows 7 (32位) | [链接][1] | [链接][2] |
+Windows 7 (64位) | [链接][3] | [链接][4] |
+Windows 10 (64位) | [链接][5] | [链接][6] |
+Windows 11 (64位) | [链接][7] | [链接][8] |
+Windows 11 (64位，已解除硬件限制) | [链接][9] | [链接][10] |
+Office 2016 VL (64位) | [链接][11] |
 
-Office 2016 VL (64位) | [链接][5] |
-
-#### Windows密钥
-[windows密钥支持7/8/10/11激活](https://item.taobao.com/item.htm?ft=t&id=656613587666)
 #### Windows 10数字激活
-[windows 10数字](https://ods.lanzoui.com/i1lPsu0kkaf)
+[windows 10数字](https://ods.lanzoui.com/iQMV0ukigmb)
 
-[office转换](https://ods.lanzoui.com/ikWtUukpkte)
-
-[office官方卸载工具](https://aka.ms/SaRA-officeUninstallFromPC)
-
-[微软官方支持地址](https://support.microsoft.com/)
-
-[1]: https://www.aliyundrive.com/s/Vhs4BkCz73k
-[2]: https://www.aliyundrive.com/s/cSttWBw9VvR
-[3]: https://www.aliyundrive.com/s/nhvEy5WdbKK
-[4]: https://www.aliyundrive.com/s/eH6QBi4BBwB
-[5]: https://www.aliyundrive.com/s/Y1sjC29T7mQ6
+[1]: https://www.aliyundrive.com/s/rjLNuLt8NvX
+[3]: https://www.aliyundrive.com/s/BYDsW2jLSxM
+[5]: https://www.aliyundrive.com/s/4BVxPRWLAzS
+[7]: https://www.aliyundrive.com/s/SszBSf8NwJR
+[9]: https://www.aliyundrive.com/s/h96Ps4vUxi9
+[11]: https://www.aliyundrive.com/s/fxwg3bxFq3y
  
