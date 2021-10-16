@@ -23,6 +23,22 @@ type: page
 
     ods.im资源恢复。 密码:h6b4
 
+## 希望永远不懂
+
+附录：
+1.[中国裁判文书网](https://wenshu.court.gov.cn/website/wenshu/181029CR4M5A62CH/index.html?)
+
+2.[家庭暴力注册簿登记](#小程序://本地宝/本地宝/zBJ8DuGdcbtHDnt)
+
+3.[中国人民银行征信中心](http://www.pbccrc.org.cn/zxzx/index.shtml)
+
+4. [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
+
+5.[中国执行信息公开网](http://zxgk.court.gov.cn/)
+
+6.[学信网](https://www.chsi.com.cn/)
+
+7.[国家政务服务平台](http://gjzwfw.www.gov.cn/index.html)
 
 
 ## Comments
