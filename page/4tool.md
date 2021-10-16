@@ -32,7 +32,7 @@ type: page
 
 3.[中国人民银行征信中心](http://www.pbccrc.org.cn/zxzx/index.shtml)
 
-4. [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
+4.[国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html)
 
 5.[中国执行信息公开网](http://zxgk.court.gov.cn/)
 
