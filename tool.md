@@ -25,7 +25,7 @@ type: page
 
 ## 希望永远不懂
 
-附录：
+
 1.[中国裁判文书网](https://wenshu.court.gov.cn/website/wenshu/181029CR4M5A62CH/index.html?)
 
 2.[家庭暴力注册簿登记](#小程序://本地宝/本地宝/zBJ8DuGdcbtHDnt)
