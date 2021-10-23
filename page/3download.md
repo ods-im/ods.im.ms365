@@ -47,25 +47,25 @@ type: page
 
 | 安装包 | 激活文件下载 | 序列号及密钥 | 激活教程 |
 | --- | --- | --- | --- |
-|[AutoCAD<strong>2022</strong>安装包](https://pan.baidu.com/s/1ivvANJM8jtAdLnEiG6D1bg)|[CAD<strong>2022</strong>激活文件win&mac](https://ods.lanzoui.com/iF97xuo6yla) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2022激活图文教程) |
-|[AutoCAD<strong>2021</strong>安装包](https://pan.baidu.com/s/1Itxgy-0fY9JeJK3vIel9pQ)|[CAD<strong>2021</strong>激活文件win&mac](https://ods.lanzoui.com/ibl07) |[无需序列号及密钥](/cad2021/)| [激活图文教程](/cad/#autodesk2021激活教程) |
-|[AutoCAD<strong>2020</strong>安装包](https://pan.baidu.com/s/1hLkX-TM1IIF9O1Xsl12_lw)|[CAD<strong>2020</strong>激活文件win&mac](https://ods.lanzoui.com/iCDwAuck1dg) |[序列号及密钥](/cad2020/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2019</strong>安装包](https://pan.baidu.com/s/1nYGWrUHY6ziTLpzCt0561g)|[CAD<strong>2019</strong>激活文件win](https://ods.lanzoui.com/iAWLYuck90b) |[序列号及密钥](/cad2019/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2018</strong>安装包](https://pan.baidu.com/s/1l63H8LtujA6ib8P_QxpYNw)|[CAD<strong>2018</strong>激活文件win](https://ods.lanzoui.com/iskfVuck0he) |[序列号及密钥](/cad2018/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2017</strong>安装包](https://pan.baidu.com/s/1_OfwHDrRdNfz5kvOWAzkPw)|[CAD<strong>2017</strong>激活文件win](https://ods.lanzoui.com/iGP0Iuck07e) |[序列号及密钥](/cad2017/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2016</strong>安装包](https://pan.baidu.com/s/1uu7y2lecjZJTgt88VxSB1g)|[CAD<strong>2016</strong>激活文件win](https://ods.lanzoui.com/iBbJFuck02j) |[序列号及密钥](/cad2016/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2015</strong>安装包](https://pan.baidu.com/s/1SYksVl3Dhp-EWuCdReKAiA)|[CAD<strong>2015</strong>激活文件win&mac](https://ods.lanzoui.com/ivrAJucjzmd) |[序列号及密钥](/cad2015/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2014</strong>安装包](https://pan.baidu.com/s/1fPYrHshObMN8biVqDLB1tA)|[CAD<strong>2014</strong>激活文件win](https://ods.lanzoui.com/iTKMVuck34j) |[序列号及密钥](/cad2014/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2013</strong>安装包](https://pan.baidu.com/s/158taj0FozVj4tkroY1tiaw)|[CAD<strong>2013</strong>激活文件win&mac](https://ods.lanzoui.com/ia1DUuck32h) |[序列号及密钥](/cad2013/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2012</strong>安装包](https://pan.baidu.com/s/1Ak9jSD9G7w3DvKYAwS5Rvw)|[CAD<strong>2012</strong>激活文件win](https://ods.lanzoui.com/ip7O7uck2va) |[序列号及密钥](/cad2012/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2011</strong>安装包](https://pan.baidu.com/s/1CmfgfGiwnmZJwZDKzVCE9g)|[CAD<strong>2011</strong>激活文件win](https://ods.lanzoui.com/iTmFHuck2gf) |[序列号及密钥](/cad2011/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2010</strong>安装包](https://pan.baidu.com/s/1OgCrzyh3LDzyed9rC3F1aw)|[CAD<strong>2010</strong>激活文件win](https://ods.lanzoui.com/iVtpkuck2cb) |[序列号及密钥](/cad2010/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2009</strong>安装包](https://pan.baidu.com/s/1v20ivGADW6n99clww80j9Q)|[CAD<strong>2009</strong>激活文件win](https://ods.lanzoui.com/iXrjiuck29i) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2008</strong>安装包](https://pan.baidu.com/s/1OMX0AmQRMiyNhF2yDWZiJw)|[CAD<strong>2008</strong>激活文件win](https://ods.lanzoui.com/iKu9Quck26f) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2007</strong>安装包](https://pan.baidu.com/s/1mTALnVqBKrlcqZQm5rcTcg)|[CAD<strong>2007</strong>激活文件win](https://ods.lanzoui.com/iCPQPuck23c) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2006</strong>安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD<strong>2006</strong>激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2005</strong>安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD<strong>2005</strong>激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
-|[AutoCAD<strong>2004</strong>安装包](https://pan.baidu.com/s/1RPuoFNw325B-F99BmoBIKw)|[CAD<strong>2004</strong>激活文件win](https://ods.lanzoui.com/i5S9nuck1zi) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2022</strong>安装包](https://www.aliyundrive.com/s/dYF6nBxwTDc)|[CAD<strong>2022</strong>激活文件win&mac](https://ods.lanzoui.com/iaWOxvnwsrg) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2021-2022激活图文教程) |
+|[AutoCAD<strong>2021</strong>安装包](https://www.aliyundrive.com/s/5UMgekJS9Vm)|[CAD<strong>2021</strong>激活文件win&mac](https://ods.lanzoui.com/i0sxUvnwsva) |[无需序列号及密钥](/cad2021/)| [激活图文教程](/cad/#autodesk2021-2022激活教程) |
+|[AutoCAD<strong>2020</strong>安装包](https://www.aliyundrive.com/s/uFWSDtLxrA6)|[CAD<strong>2020</strong>激活文件win&mac](https://ods.lanzoui.com/irPqwvnwswb) |[序列号及密钥](/cad2020/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2019</strong>安装包](https://www.aliyundrive.com/s/9b1xCLYKHcK)|[CAD<strong>2019</strong>激活文件win](https://ods.lanzoui.com/ifnPnvnwsyd) |[序列号及密钥](/cad2019/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2018</strong>安装包](https://www.aliyundrive.com/s/GLFdwHQJ9g5)|[CAD<strong>2018</strong>激活文件win](https://ods.lanzoui.com/iR2yFvnwsze) |[序列号及密钥](/cad2018/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2017</strong>安装包](https://www.aliyundrive.com/s/V5oBc65bGSn)|[CAD<strong>2017</strong>激活文件win](https://ods.lanzoui.com/iOLMevnwt1g) |[序列号及密钥](/cad2017/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2016</strong>安装包](https://www.aliyundrive.com/s/Cp8ALUpkm2C)|[CAD<strong>2016</strong>激活文件win](https://ods.lanzoui.com/iwjsdvnwt3i) |[序列号及密钥](/cad2016/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2015</strong>安装包](https://www.aliyundrive.com/s/fTsAxfFBECD)|[CAD<strong>2015</strong>激活文件win&mac](https://ods.lanzoui.com/i5d0Nvnwt5a) |[序列号及密钥](/cad2015/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2014</strong>安装包](https://www.aliyundrive.com/s/qDkqkudSpm8)|[CAD<strong>2014</strong>激活文件win](https://ods.lanzoui.com/icT31vnwt6b) |[序列号及密钥](/cad2014/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2013</strong>安装包](https://www.aliyundrive.com/s/sA3qvU6Mas8)|[CAD<strong>2013</strong>激活文件win&mac](https://ods.lanzoui.com/i9Psyvnwt8d) |[序列号及密钥](/cad2013/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2012</strong>安装包](https://www.aliyundrive.com/s/qgDd6bAkWKj)|[CAD<strong>2012</strong>激活文件win](https://ods.lanzoui.com/ifcLKvnwsfe) |[序列号及密钥](/cad2012/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2011</strong>安装包](https://www.aliyundrive.com/s/fdZnTpSUtmS)|[CAD<strong>2011</strong>激活文件win](https://ods.lanzoui.com/iqJDmvnwsgf) |[序列号及密钥](/cad2011/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2010</strong>安装包](https://www.aliyundrive.com/s/fnYQTYxacik)|[CAD<strong>2010</strong>激活文件win](https://ods.lanzoui.com/imsNHvnwshg) |[序列号及密钥](/cad2010/)| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2009</strong>安装包](https://www.aliyundrive.com/s/NBk2fNo68ts)|[CAD<strong>2009</strong>激活文件win](https://ods.lanzoui.com/iDeYdvnwsji) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2008</strong>安装包](https://www.aliyundrive.com/s/mHvpVNt11Zw)|[CAD<strong>2008</strong>激活文件win](https://ods.lanzoui.com/iwzsTvnwskj) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2007</strong>安装包](https://www.aliyundrive.com/s/J5TdYUrZdUb)|[CAD<strong>2007</strong>激活文件win](https://ods.lanzoui.com/iKE0Ovnwsla) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2006</strong>安装包](https://www.aliyundrive.com/s/gVre9Aautdg)|[CAD<strong>2006</strong>激活文件win](https://ods.lanzoui.com/iSfbpvnwsmb) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2005</strong>安装包](https://www.aliyundrive.com/s/MiShkTj3cPC)|[CAD<strong>2005</strong>激活文件win](https://ods.lanzoui.com/iLemsvnwsnc) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
+|[AutoCAD<strong>2004</strong>安装包](https://www.aliyundrive.com/s/qPEEdzpF7K8)|[CAD<strong>2004</strong>激活文件win](https://ods.lanzoui.com/iFLNkvnwsod) |无需序列号及密钥| [激活图文教程](/cad/#autodesk2006-2020激活图文教程) |
 
 ### Adobe全家桶
 
