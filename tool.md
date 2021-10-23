@@ -21,7 +21,7 @@ type: page
 
 * [资源恢复工具](https://ods.lanzoui.com/ibCM3v0uoni)
 
-    ods.im资源恢复。 密码:h6b4
+    ods.im资源恢复。
 
 ## 希望永远不懂
 
